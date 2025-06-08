@@ -1,0 +1,17 @@
+Aloft live URL
+
+https://cmst385-umgc-jgreen91.azurewebsites.net/project2/
+
+GitHub
+
+https://github.com/ParadoxJones/cmst385-projects/tree/main/project2
+
+Reflections:
+
+What issues or challenges did you face completing this project?
+
+I had a few issue that involved misplaced quotation marks and incorrectly spelled words. One issue that caught me up was I didn't name the pngs the same as I coded them. Simple fixes, but errors happen when I type too fast and don't proof read my code. Other than that, this was easy enough. I provided wireframes for my website and they still might be condensed but I like what I currently thought up.
+
+What questions do you have about developing your final project?
+
+My goal is to have a embedded media and carousels so I can showcase a lot of the projects I have made over the years. I am somewhat bombarding myself with too many options, so I am just trying to create a portfolio website so I can go to job fairs and give it to recruiters.   
