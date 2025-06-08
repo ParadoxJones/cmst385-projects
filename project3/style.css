@@ -1,0 +1,114 @@
+/* General settings */
+body{
+    margin: 0;
+    font-family: 'Helvetica', sans-serif;
+    background-color: #ffffff;
+    color:#000000;
+}
+
+h1, h2, h3{
+    font-family: 'Playfair Display', serif;
+    color: #000000;
+    text-align: center;
+}
+
+p{
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 0 0 16px;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+}
+
+/* Nav section */
+
+nav{
+    background-color: #000000;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a{
+    color: #fbeaeb;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover{
+    color: #ffd700;
+}
+
+
+
+/*Header section*/
+
+header{
+background-color: #fbeaeb;
+padding: 40px 20px;
+text-align: center;
+}
+
+.hero-img{
+width: 100%;
+height: auto;
+margin-bottom: 20px;
+}
+
+/*Tour Information */
+
+#tour{
+    background-color: #ffffff;
+    padding: 60px 20px;
+}
+
+.tour-card{
+    background-color: #fbeaeb;
+    border: 2px solid #ffd700;
+    padding: 15px;
+    margin: 10px;
+    text-align: center;
+}
+
+/* News */
+
+#newsletter{
+    background-color: #000000;
+    color: #ffffff;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+#newsletter input[type="email"]{
+    padding: 10px;
+    margin-right: 10px;
+    width: 250px;
+    border: none;
+}
+
+#newsletter button{
+    background-color: #ffd700;
+    color: #000000;
+    padding: 10px 20px;
+    border: none;
+    font-weight: bold;
+}
+
+#newsletter button:hover{
+    background-color: #fbeaeb;
+}
+
+/* footer*/
+
+footer{
+    background-color: #000000;
+    color: #fbeaeb;
+    text-align: center;
+    padding: 30px 20px;
+    font-size: 14px;
+}
