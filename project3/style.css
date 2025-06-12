@@ -31,6 +31,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 nav a{
@@ -77,11 +78,48 @@ margin-bottom: 20px;
 
 /* News */
 
-#newsletter{
+#news{
     background-color: #000000;
     color: #ffffff;
     padding: 40px 20px;
+}
+
+#news-caption{
+    background-color: #fbeaeb;
+    padding: 20px;
+    color: #000000;
+    font-weight: bold;
+    margin-top: 20px;
     text-align: center;
+}
+
+
+
+/* Blog Section */
+
+#blog{
+    padding: 60px 20px;
+}
+
+.blog-card{
+    background-color: #fbeaeb;
+    padding: 20px;
+    margin: 15px;
+    text-align: center;
+}
+
+.blog-card:hover{
+    background-color: #000000;
+    cursor: pointer;
+}
+
+/* Newsletter*/
+
+#newsletter{
+   background-color:#000000;
+   color:#ffffff;
+   padding:40px 20px;
+   text-align: center;
 }
 
 #newsletter input[type="email"]{
@@ -102,6 +140,7 @@ margin-bottom: 20px;
 #newsletter button:hover{
     background-color: #fbeaeb;
 }
+
 
 /* footer*/
 
